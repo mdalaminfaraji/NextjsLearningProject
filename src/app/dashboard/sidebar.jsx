@@ -1,5 +1,5 @@
-import NavLink from '@/component/NavLink';
-import Link from 'next/link';
+import NavLink from '../../component/NavLink';
+
 import React from 'react';
 const navLinks=[
     {
