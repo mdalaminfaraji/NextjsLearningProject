@@ -1,0 +1,104 @@
+{
+    "categories":[
+        {
+            "id":1,
+            "name":"Electronics",
+            "imageUrl":"https://example.com/electonics.jpg"
+        },
+        {
+            "id":2,
+            "name":"Electronics",
+            "imageUrl":"https://example.com/electonics.jpg"
+        },
+        {
+            "id":3,
+            "name":"Electronics",
+            "imageUrl":"https://example.com/electonics.jpg"
+        },
+        {
+            "id":4,
+            "name":"Electronics",
+            "imageUrl":"https://example.com/electonics.jpg"
+        },
+        {
+            "id":5,
+            "name":"Electronics",
+            "imageUrl":"https://example.com/electonics.jpg"
+        },
+        {
+            "id":6,
+            "name":"Electronics",
+            "imageUrl":"https://example.com/electonics.jpg"
+        },
+        {
+            "id":7,
+            "name":"Electronics",
+            "imageUrl":"https://example.com/electonics.jpg"
+        },
+        {
+            "id":8,
+            "name":"Electronics",
+            "imageUrl":"https://example.com/electonics.jpg"
+        },
+        {
+            "id":9,
+            "name":"Electronics",
+            "imageUrl":"https://example.com/electonics.jpg"
+        },
+        {
+            "id":10,
+            "name":"Electronics",
+            "imageUrl":"https://example.com/electonics.jpg"
+        }
+    ],
+    "products":[
+        {
+            "id":1,
+            "title":"iphone12",
+            "price":999,
+            "categoryId":1,
+            "features":[
+                "a14 Bionic chip",
+                "a14 Bionic chip",
+                "a14 Bionic chip"
+            ],
+            "imageUrl":"https://example.com/iphone12.jpg"
+        },
+        {
+            "id":2,
+            "title":"iphone12",
+            "price":999,
+            "categoryId":1,
+            "features":[
+                "a14 Bionic chip",
+                "a14 Bionic chip",
+                "a14 Bionic chip"
+            ],
+            "imageUrl":"https://example.com/iphone12.jpg"
+        },
+        {
+            "id":3,
+            "title":"iphone12",
+            "price":999,
+            "categoryId":1,
+            "features":[
+                "a14 Bionic chip",
+                "a14 Bionic chip",
+                "a14 Bionic chip"
+            ],
+            "imageUrl":"https://example.com/iphone12.jpg"
+        },
+        {
+            "id":4,
+            "title":"iphone12",
+            "price":999,
+            "categoryId":1,
+            "features":[
+                "a14 Bionic chip",
+                "a14 Bionic chip",
+                "a14 Bionic chip"
+            ],
+            "imageUrl":"https://example.com/iphone12.jpg"
+        }
+    ]
+}

@@ -1,3 +1,4 @@
+import LoadBlogsData from '../../.../../../utils/LoadBlogsData';
 import Link from 'next/link';
 
 import React from 'react';
@@ -34,11 +35,8 @@ export const metadata = {
 //   ]
 const BlogsPage = async() => {
 // href={{pathName:`/blogs/${year}/${id}`, query:{title:title}}}
-
-   const res=await fetch("https://jsonplaceholder.typicode.com/posts",{
-    cache:"force-cache",
-   });
-   const blogs=await res.json();
+   const blogs= await LoadBlogsData();
+  
     return (
         <div className='container mx-auto p-2 mt-10'>
             {
